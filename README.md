@@ -4,7 +4,7 @@ A device that measures soil moisture and performs irrigation if the moisture con
 **Tools used:**
 1. >   submersible water pump
 2. >   arduino uno
-3. >   transistor (bdx54c)
+3. >   transistor (bc547)
 4. >   soil moisture(Yl-69)
 5. >   potentiometer(10k)
    
